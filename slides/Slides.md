@@ -18,7 +18,7 @@ style: |
     display: block;
     margin: 0 auto;
   }
-  
+
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
 <!-- _class: "title-slide" -->
@@ -50,7 +50,7 @@ style: |
 
 |Microsoft MVP<br/>2015-Present|MCSE<br/>2017|Azure Solutions <br/>Architect<br/>2019|Azure DevOps <br />Expert<br/>2019|
 |--|--|--|--|
-|![MVP](img/mvp.png) |![MCSE](img/mcse.png) |![Azure](img/solarch.png) |![DevOps](img/devops.png)
+|<i class="about-me-img">![MVP](img/mvp.png)</i> |![MCSE](img/mcse.png) |![Azure](img/solarch.png) |![DevOps](img/devops.png)
 
 </div>
 </div>
@@ -58,6 +58,6 @@ style: |
 ---
 ## Free Programming Resources
 
-<i class="fa-brands fa-github"></i> GitHub for Students
-<i class="fa-brands fa-microsoft"></i> Microsoft Azure Free Tier
-<i class="fa-brands fa-microsoft"></i> Microsoft Student Ambassadors
+<i class="fa-brands fa-github"></i> [GitHub for Students](https://education.github.com/benefits)
+<i class="fa-brands fa-microsoft"></i> [Microsoft Azure Free Tier](https://azure.microsoft.com/en-us/free/free-account-faq)
+<i class="fa-brands fa-microsoft"></i> [Microsoft Student Ambassadors](https://learn.microsoft.com/en-us/training/student-hub/become-a-student-ambassador)
