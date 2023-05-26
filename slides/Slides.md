@@ -2,7 +2,6 @@
 marp: true
 theme: midnight
 transition: fade
-footer: 'https://example.com'
 style: |
   .columns {
     display: grid;
@@ -22,9 +21,9 @@ style: |
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
 <!-- _class: "title-slide" -->
-# My Presentation
+# Cloud Solutions and Computer Science with GitHub
 
-![bg right](https://picsum.photos/800/600)
+![bg right](https://user-images.githubusercontent.com/7942952/144457920-fea501bd-196a-4192-99d6-7c1658d9dd0b.png)
 
 ---
 
@@ -35,7 +34,7 @@ style: |
 ### Work: Xpirit US, Cloud Solution Architect
 
 - Design large-scale systems using the cloud
-- Design and build scripts to create or tear down those systems
+- Design and write scripts to create or tear down those systems
 - Help teams build better software
 - Help teams modernize old applications
 
@@ -48,16 +47,49 @@ style: |
 </div>
 <div>
 
-|Microsoft MVP<br/>2015-Present|MCSE<br/>2017|Azure Solutions <br/>Architect<br/>2019|Azure DevOps <br />Expert<br/>2019|
-|--|--|--|--|
-|<i class="about-me-img">![MVP](img/mvp.png)</i> |![MCSE](img/mcse.png) |![Azure](img/solarch.png) |![DevOps](img/devops.png)
+||||
+|--|--|--|
+|Microsoft Most Valuable<br/>Professional<br/>2015 - Present||![MVP](img/mvp.png)|
+|MCSE, Cloud Infrastructure and <br/>Services <br />2017||![MCSE](img/mcse.png) |
+|Azure Solutions Architect<br/>2019||![Azure](img/solarch.png) |
+|Azure DevOps Expert<br/>2019|&nbsp;&nbsp;&nbsp;&nbsp;|![DevOps](img/devops.png)
 
 </div>
 </div>
 
 ---
-## Free Programming Resources
 
-<i class="fa-brands fa-github"></i> [GitHub for Students](https://education.github.com/benefits)
-<i class="fa-brands fa-microsoft"></i> [Microsoft Azure Free Tier](https://azure.microsoft.com/en-us/free/free-account-faq)
+## <i class="fa-brands fa-github"></i> GitHub
+
+### GitHub is a social coding platform allowing users to create, contribute to, and maintain open-source software.
+
+As an individual, you get access to:
+
+- Millions of code repositories
+- Create your own public repositories
+- Create workflows and actions to build and deploy your applications
+- CodeSpaces, an online development environment
+
+---
+
+## Careers
+
+### Careers in engineering don't have to be purely programming.
+
+- Business Analysts
+- Security Analysts
+- Technology Instructors
+- User Interface / User Experience (UI/UX)
+- Hardware Technicians
+- Networking Engineers
+
+---
+
+## Recognition
+
 <i class="fa-brands fa-microsoft"></i> [Microsoft Student Ambassadors](https://learn.microsoft.com/en-us/training/student-hub/become-a-student-ambassador)
+The Student Ambassador program is a nomination-based award that recognizes students age 16+ for:
+
+- Achievements on the Microsoft Learn platform
+- Leading or organizing meetups with other students or community members related to technology topics
+- Developing applications using Microsoft technologies that enable people to do great things
