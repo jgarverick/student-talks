@@ -43,16 +43,17 @@ style: |
 <i class="fa-brands fa-twitter"></i> Twitter: https://twitter.com/jgarverick
 <i class="fa-brands fa-linkedin"></i> LinkedIn: https://www.linkedin.com/in/josh-garverick 
 <i class="fa-brands fa-github"></i> GitHub: https://github.com/jgarverick
+<i class="fa-brands fa-microsoft"></i> MVP: https://mvp.microsoft.com/en-us/PublicProfile/5001512
 
 </div>
 <div>
 
 ||||
 |--|--|--|
-|Microsoft Most Valuable<br/>Professional<br/>2015 - Present||![MVP](img/mvp.png)|
-|MCSE, Cloud Infrastructure and <br/>Services <br />2017||![MCSE](img/mcse.png) |
-|Azure Solutions Architect<br/>2019||![Azure](img/solarch.png) |
-|Azure DevOps Expert<br/>2019|&nbsp;&nbsp;&nbsp;&nbsp;|![DevOps](img/devops.png)
+|![MVP](img/mvp.png)||Microsoft Most Valuable<br/>Professional<br/>2015|
+|![MCSE](img/mcse.png)||MCSE, Cloud Infrastructure and <br/>Services <br />2017|
+|![Azure](img/solarch.png)||Azure Solutions Architect<br/>2019 |
+|![DevOps](img/devops.png)||Azure DevOps Expert<br/>2019|
 
 </div>
 </div>
