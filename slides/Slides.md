@@ -23,66 +23,41 @@ style: |
 ---
 <!-- _class: "title-slide" -->
 # My Presentation
+
 ![bg right](https://picsum.photos/800/600)
 
 ---
 
-## Slide 1
-
-- Item 1
-- Item 2
-- Item 3
-
----
-
-## Slide 2
-
-![Image](https://picsum.photos/800/600)
-
----
-
-## Slide 3
-
-> This is a quote.
-
----
-
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
-
----
-
-## Slide 5
-
+## About Me
 <div class="columns">
 <div>
 
-## Left
+### Work: Xpirit US, Cloud Solution Architect
 
-- 1
-- 2
+- Design large-scale systems using the cloud
+- Design and build scripts to create or tear down those systems
+- Help teams build better software
+- Help teams modernize old applications
+
+### Links
+
+<i class="fa-brands fa-twitter"></i> Twitter: https://twitter.com/jgarverick
+<i class="fa-brands fa-linkedin"></i> LinkedIn: https://www.linkedin.com/in/josh-garverick 
+<i class="fa-brands fa-github"></i> GitHub: https://github.com/jgarverick
 
 </div>
 <div>
 
-## Right
-
-- 3
-- 4
+|Microsoft MVP<br/>2015-Present|MCSE<br/>2017|Azure Solutions <br/>Architect<br/>2019|Azure DevOps <br />Expert<br/>2019|
+|--|--|--|--|
+|![MVP](img/mvp.png) |![MCSE](img/mcse.png) |![Azure](img/solarch.png) |![DevOps](img/devops.png)
 
 </div>
 </div>
 
 ---
+## Free Programming Resources
 
-## Slide 6
-
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+<i class="fa-brands fa-github"></i> GitHub for Students
+<i class="fa-brands fa-microsoft"></i> Microsoft Azure Free Tier
+<i class="fa-brands fa-microsoft"></i> Microsoft Student Ambassadors
