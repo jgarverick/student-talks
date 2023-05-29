@@ -53,7 +53,7 @@ style: |
 |![MVP](img/mvp.png)||Microsoft Most Valuable<br/>Professional<br/>2015|
 |![MCSE](img/mcse.png)||MCSE, Cloud Infrastructure and <br/>Services <br />2017|
 |![Azure](img/solarch.png)||Azure Solutions Architect<br/>2019 |
-|![DevOps](img/devops.png)||Azure DevOps Expert<br/>2019|
+|![DevOps](img/devops.png)||Azure DevOps Engineer Expert<br/>2019|
 
 </div>
 </div>
@@ -86,7 +86,17 @@ As an individual, you get access to:
 
 ---
 
-## Recognition
+## Get Involved
+
+<i class="fa-brands fa-microsoft"></i> [Microsoft Learn](https://learn.microsoft.com)
+Microsoft Learn is the home for all documentation, code samples, tutorials, labs, and learning modules related to Microsoft technologies.
+
+<i class="fa-brands fa-microsoft"></i> [Microsoft Imagine Cup](https://imaginecup.microsoft.com)
+The Imagine Cup is an annual competition sponsored by Microsoft that challenges students to define and solve problems using innovative technological solutions.
+
+- Collaborate with other students
+- Learn new skills
+- Receive mentorship from people in the industry
 
 <i class="fa-brands fa-microsoft"></i> [Microsoft Student Ambassadors](https://learn.microsoft.com/en-us/training/student-hub/become-a-student-ambassador)
 The Student Ambassador program is a nomination-based award that recognizes students age 16+ for:
