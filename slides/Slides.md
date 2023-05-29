@@ -31,7 +31,7 @@ style: |
 <div class="columns">
 <div>
 
-### Work: Xpirit US, Cloud Solution Architect
+### Work: [Xpirit US](https://www.xpirit.com), Cloud Solution Architect (Consultant)
 
 - Design large-scale systems using the cloud
 - Design and write scripts to create or tear down those systems
@@ -60,22 +60,9 @@ style: |
 
 ---
 
-## <i class="fa-brands fa-github"></i> GitHub
-
-### GitHub is a social coding platform allowing users to create, contribute to, and maintain open-source software.
-
-As an individual, you get access to:
-
-- Millions of code repositories
-- Create your own public repositories
-- Create workflows and actions to build and deploy your applications
-- CodeSpaces, an online development environment
-
----
-
 ## Careers
 
-### Careers in engineering don't have to be purely programming.
+### Careers in technology don't have to be purely about programming.
 
 - Business Analysts
 - Security Analysts
@@ -89,7 +76,7 @@ As an individual, you get access to:
 ## Get Involved
 
 <i class="fa-brands fa-microsoft"></i> [Microsoft Learn](https://learn.microsoft.com)
-Microsoft Learn is the home for all documentation, code samples, tutorials, labs, and learning modules related to Microsoft technologies.
+Microsoft Learn is the home for all documentation, code samples, tutorials, labs, and learning modules related to Microsoft technologies. You can sign up for free and track your learning achievements across a wide variety of technology topics.
 
 <i class="fa-brands fa-microsoft"></i> [Microsoft Imagine Cup](https://imaginecup.microsoft.com)
 The Imagine Cup is an annual competition sponsored by Microsoft that challenges students to define and solve problems using innovative technological solutions.
@@ -104,3 +91,16 @@ The Student Ambassador program is a nomination-based award that recognizes stude
 - Achievements on the Microsoft Learn platform
 - Leading or organizing meetups with other students or community members related to technology topics
 - Developing applications using Microsoft technologies that enable people to do great things
+
+---
+
+## <i class="fa-brands fa-github"></i> GitHub
+
+### GitHub is a social coding platform allowing users to create, contribute to, and maintain open-source software.
+
+As an individual, you get access to:
+
+- Millions of code repositories
+- Create your own public repositories
+- Create workflows and actions to build and deploy your applications
+- CodeSpaces, an online development environment
