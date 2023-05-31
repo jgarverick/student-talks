@@ -27,11 +27,11 @@ style: |
 
 ---
 
-## My Story
+## My Backstory
 <div class="columns">
 <div>
 
-### Work: [Xpirit US](https://www.xpirit.com), Cloud Solution Architect (Consultant-ish)
+### Work: [Xpirit US](https://www.xpirit.com), Cloud Solution Architect (Consultant)
 
 - Design large-scale systems using the cloud
 - Design and write scripts to create or tear down those systems
