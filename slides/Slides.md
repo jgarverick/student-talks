@@ -31,7 +31,7 @@ style: |
 <div class="columns">
 <div>
 
-### Where I work: [Xpirit US](https://www.xpirit.com), Cloud Solution Architect (Consultant)
+### Work: [Xpirit US](https://www.xpirit.com), Cloud Solution Architect (Consultant-ish)
 
 - Design large-scale systems using the cloud
 - Design and write scripts to create or tear down those systems
