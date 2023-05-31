@@ -27,7 +27,7 @@ style: |
 
 ---
 
-## About Me
+## My Story
 <div class="columns">
 <div>
 
